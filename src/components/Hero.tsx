@@ -1,3 +1,9 @@
 export const Hero = () => {
-  return null;
+  return (
+    <div>
+      <div className="container">
+
+      </div>
+    </div>
+  );
 };
